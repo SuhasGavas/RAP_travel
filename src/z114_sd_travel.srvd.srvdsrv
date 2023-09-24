@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service definition for travel'
+define service Z114_SD_Travel {
+  expose Z114_Travel;
+  expose Z114_Booking;
+}
